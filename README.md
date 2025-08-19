@@ -20,8 +20,6 @@
 </br>
 •	Interests: Artificial Intelligence, Machine Learning, Web Development, Problem Solving
 </br>
-📈 GitHub Stats
-</br>
  
  
 🌐 Connect With Me
