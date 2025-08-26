@@ -2,15 +2,15 @@
 </br>
 🚀 About Me
 </br>
-•	🤖 Currently exploring Artificial Intelligence & Machine Learning
+•	Currently exploring Artificial Intelligence & Machine Learning
 </br>
-•	🔹 Skilled in C, C++, Python, HTML
+• Skilled in C, C++, Python, HTML
 </br>
-•	🔹 Strong foundation in Data Structures & Algorithms (DSA)
+• Strong foundation in Data Structures & Algorithms (DSA)
 </br>
-•	🔹 Open to contributing to Open Source & AI-based Projects
+•	Open to contributing to Open Source & AI-based Projects
 </br>
-•	🔹 Always curious to learn and experiment with new technologies
+• Always curious to learn and experiment with new technologies
 </br>
 🛠️ Skills
 </br>
@@ -24,8 +24,8 @@
  
 🌐 Connect With Me
 </br>
-•	📧 Email: paisamruddhi4545@gmail.com
+•	Email: paisamruddhi4545@gmail.com
 </br>
-•	💼 LinkedIn:https://www.linkedin.com/in/Samruddhi-pai-813266284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+•	LinkedIn:https://www.linkedin.com/in/Samruddhi-pai-813266284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 </br>
 ✨ "The best way to predict the future is to invent it."
